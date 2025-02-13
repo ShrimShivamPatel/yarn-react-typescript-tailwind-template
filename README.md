@@ -3,13 +3,13 @@ Here’s how you can set it up:
 ### 1. **Create the React TypeScript Project with Yarn:**
 
 ```bash
-yarn create react-app curriculum-authoring-tool --template typescript
+yarn create react-app getting-started --template typescript
 ```
 
 ### 2. **Navigate to the Project Folder:**
 
 ```bash
-cd curriculum-authoring-tool
+cd getting-started
 ```
 
 ### 3. **Install Tailwind CSS v3.4.17:**
